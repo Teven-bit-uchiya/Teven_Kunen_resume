@@ -1,0 +1,51 @@
+img {
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 30px;
+    }
+    
+    .username {
+    font-weight: bold;
+    }
+    body{
+        background-color: #99ff99;
+        }
+        h1{
+        font-size: 40px;
+        color: blue;
+        }
+        h2{
+        font-size: 30px;
+        color: blue;
+        }
+        h3{
+        font-size: 20px;
+        color: blue;
+        }
+        p{
+        font-size: 15px;
+        color: rgb(22, 18, 18);
+        }
+        .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+    .button2 {background-color: #008CBA;} /* Blue */
+    .button3 {background-color: #f44336;} /* Red */
+    .button4 {background-color: #e7e7e7; color: black;} /* Gray */
+    body {
+    background-image: url('Tevino.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    .button5 {background-color: #555555;} /* Black */
